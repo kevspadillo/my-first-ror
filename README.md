@@ -1,2 +1,2 @@
 # my-first-ror
-My First Ruby on Rails application.
+> A curated list of awesome lists
